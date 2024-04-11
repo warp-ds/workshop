@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { FinnLogo } from "./Logo.tsx";
+import { Button } from '@warp-ds/react';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -12,9 +13,9 @@ function App() {
       <main className="page-container text-center">
         <h1 className="">Hello Vite + React!</h1>
         <p>
-          <button onClick={() => setCount((count) => count + 1)}>
-            count is: {count}
-          </button>
+          <Button primary onClick={() => setCount((count) => count + 1)}>
+              count is: {count}
+          </Button> 
         </p>
         <p>
           Edit <code>App.tsx</code> and save to test HMR updates.
