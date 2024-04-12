@@ -1,7 +1,4 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
-
-const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -19,6 +16,7 @@ export default function RootLayout({
         <link rel="stylesheet" href="https://assets.finn.no/pkg/@warp-ds/fonts/v1/finn-no.css" />
         <link rel="stylesheet" href="https://assets.finn.no/pkg/@warp-ds/css/v1/tokens/finn-no.css" />
         <link rel="stylesheet" href="https://assets.finn.no/pkg/@warp-ds/css/v1/resets.css" />
+        <link rel="stylesheet" href="https://assets.finn.no/pkg/@warp-ds/css/v1/components.css" />
       </head>
       <body>{children}</body>
     </html>
