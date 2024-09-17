@@ -31,7 +31,7 @@ function App() {
           {" | "}
           <a
             className="s-text-link"
-            href="https://warp-ds.github.io/css-docs/"
+            href="https://warp-ds.github.io/tech-docs/css/"
             target="_blank"
             rel="noopener noreferrer"
           >
