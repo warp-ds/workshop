@@ -43,9 +43,7 @@ Found a bug? Some wording that could be improved? Open an issue and send a pull 
 
 ## 📚 Further reading
 
-Documentation for Warp Tech can be found at [warp-ds.github.io/tech-docs/](https://warp-ds.github.io/tech-docs/).
-
-Documentation for Warp CSS can be found at [warp-ds.github.io/css-docs/](https://warp-ds.github.io/css-docs/).
+Documentation for Warp Docs can be found at [warp-ds.github.io/docs/](https://warp-ds.github.io/docs/).
 
 Documentation for Unocss can be found at [unocss.dev](https://unocss.dev/).
 
