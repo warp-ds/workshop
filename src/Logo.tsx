@@ -1,5 +1,3 @@
-import React from "react";
-
 export const FinnLogo = () => (
   <svg width={92} height={32} viewBox="0 0 184 64">
     <title>FINN.no</title>
