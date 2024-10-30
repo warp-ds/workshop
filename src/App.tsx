@@ -22,20 +22,11 @@ function App() {
         <p>
           <a
             className="s-text-link"
-            href="https://warp-ds.github.io/tech-docs/"
+            href="https://warp-ds.github.io/docs/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            WARP Tech-docs
-          </a>
-          {" | "}
-          <a
-            className="s-text-link"
-            href="https://warp-ds.github.io/tech-docs/css/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            WARP Css-docs
+            WARP Documentation
           </a>
         </p>
       </main>
