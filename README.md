@@ -43,7 +43,7 @@ Found a bug? Some wording that could be improved? Open an issue and send a pull 
 
 ## 📚 Further reading
 
-Documentation for Warp Docs can be found at [warp-ds.github.io/docs/](https://warp-ds.github.io/docs/).
+Documentation for Warp can be found at [warp-ds.github.io/docs/](https://warp-ds.github.io/docs/).
 
 Documentation for Unocss can be found at [unocss.dev](https://unocss.dev/).
 
