@@ -44,7 +44,7 @@ Found a bug? Suggestions for wording improvements? Open an issue or send a pull 
 ## 📚 Further Reading
 
 - Documentation for Warp: [warp-ds.github.io/docs/](https://warp-ds.github.io/docs/)
-- Documentation for Unocss: [unocss.dev](https://unocss.dev/)
+- Documentation for UnoCSS: [unocss.dev](https://unocss.dev/)
 
 ---
 
