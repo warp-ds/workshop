@@ -1,52 +1,51 @@
 # WARP-DS Workshop
-This is a self-paced workshop for learning how to use WARP Css & WARP components
 
-## 📖 What you will learn
+This self-paced workshop introduces you to using WARP CSS and WARP components.
 
-- Become familiar with utility classes
-- Become familiar with writing css using utility classes
-- Gain an early understanding of what a component built using utility classes looks like
-- Get an idea of how theme switching works
-- Work with some components from WARP
-- Work with Icons from WARP
-- Switching locales
-- See the documentation for Warp's Tech
-- See the documentation for Warp's CSS
+## 📖 What You Will Learn
 
-## ℹ️ Before you begin
+- Familiarize yourself with utility classes.
+- Learn to write CSS using utility classes.
+- Understand what components built with utility classes look like.
+- Explore theme-switching functionality.
+- Work with WARP components and icons.
+- Switch between locales.
+- Access Warp's documentation.
 
-Clone this repo so you have access to the coding labs on your machine. Ideally, you should have some familiarity with:
 
-- HTML, CSS and JavaScript
-- React & [pnpm](https://pnpm.io/)
+## ℹ️ Before You Begin
+
+Clone this repo to access the coding labs on your machine. It’s helpful to have some familiarity with:
+
+- HTML, CSS, and JavaScript
+- React and [pnpm](https://pnpm.io/)
 
 ### Install Node
 
-You will need [Node.js](https://nodejs.org/en) LTS. The `npm` CLI will be installed automatically when you install Node.js. You can easily alternate between `pnpm` & `npm`.
+You will need [Node.js](https://nodejs.org/en) LTS. The `npm` CLI will be installed automatically with Node.js. You can switch between `pnpm` and `npm` as needed.
 
-## 🤙 Workshop Slack channel
+## 🤙 Workshop Slack Channel
 
-Join our workshop [Slack channel #nmp-web-workshop](https://sch-chat.slack.com/archives/C04UG22R0HM), and ask questions on Slack at any time during the workshop :heart:
+Join our workshop [Slack channel #nmp-web-workshop](https://sch-chat.slack.com/archives/C04UG22R0HM). Feel free to ask questions at any time during the workshop. :heart:
 
-## 🧑‍💻 Coding labs
+## 🧑‍💻 Coding Labs
 
-The workshop consists of two labs divided:
+The workshop consists of two labs:
 
-- [Part 1](./exercise/01.md), where you'll learn about css from WARP.
-- [Part 2](./exercise/02.md), where you'll learn about components from WARP.
+- [Part 1](./exercise/01.md): Learn about WARP CSS.
+- [Part 2](./exercise/02.md): Work with WARP components.
 
-Now, hop into [Part 1](./exercise/01.md) and let's get started!
+Jump into [Part 1](./exercise/01.md) to get started!
 
-## 🏝️ After the workshop
+## 🏝️ After the Workshop
 
-Found a bug? Some wording that could be improved? Open an issue and send a pull request :heart: This goes for both the workshop, and the libraries you've used today. Let's build together from here :muscle:
+Found a bug? Suggestions for wording improvements? Open an issue or send a pull request! :heart: This applies to both the workshop content and the libraries you've used today. Let’s continue building together! :muscle:
 
-## 📚 Further reading
+## 📚 Further Reading
 
-Documentation for Warp can be found at [warp-ds.github.io/docs/](https://warp-ds.github.io/docs/).
-
-Documentation for Unocss can be found at [unocss.dev](https://unocss.dev/).
+- Documentation for Warp: [warp-ds.github.io/docs/](https://warp-ds.github.io/docs/)
+- Documentation for Unocss: [unocss.dev](https://unocss.dev/)
 
 ---
 
-A workshop by the WARP team. You'll find us on Slack at [#nmp-warp-design-system](https://sch-chat.slack.com/archives/C04P0GYTHPV).
+A workshop by the WARP team. Reach out to us on Slack at [#nmp-warp-design-system](https://sch-chat.slack.com/archives/C04P0GYTHPV).
