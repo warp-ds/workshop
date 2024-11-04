@@ -1,15 +1,10 @@
 import { useState } from "react";
-import { FinnLogo } from "./Logo.tsx";
 
 function App() {
   const [count, setCount] = useState(0);
   const incrementCount = () => setCount((prevCount) => prevCount + 1);
 
   return (
-    <>
-      <header className="page-container">
-        <FinnLogo />
-      </header>
       <main className="page-container text-center">
         <h1>Hello Vite + React!</h1>
         <p>
@@ -29,7 +24,6 @@ function App() {
           </a>
         </p>
       </main>
-    </>
   );
 }
 
