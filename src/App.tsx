@@ -5,8 +5,11 @@ function App() {
   const incrementCount = () => setCount((prevCount) => prevCount + 1);
 
   return (
+    <>
+      <header className="page-container mt-44">
+        <h1 className="text-center">WARP Design System workshop</h1>
+      </header>
       <main className="page-container text-center">
-        <h1>Hello Vite + React!</h1>
         <p>
           <button onClick={incrementCount}>count is: {count}</button>
         </p>
@@ -24,6 +27,7 @@ function App() {
           </a>
         </p>
       </main>
+    </>
   );
 }
 
